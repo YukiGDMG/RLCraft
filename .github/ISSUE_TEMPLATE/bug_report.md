@@ -1,7 +1,7 @@
 ---
 name: 翻譯錯誤回報
 about: 回報遊戲中的錯字、漏字或翻譯不當
-title: "[BUG] "
+title: ""
 labels: bug
 assignees: ''
 
