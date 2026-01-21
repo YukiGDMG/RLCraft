@@ -3,10 +3,7 @@ Traditional Chinese (zh_TW) Localization for RLCraft.
 
 RLCraft 的繁體中文翻譯包。
  
- 
- 
- 
-====== 使用說明 ======
+================== 使用說明 ==================
 
 本在地化包分為兩個部分，請務必按照說明使用。
 
@@ -24,10 +21,6 @@ RLCraft 的繁體中文翻譯包。
 
 找到你的實例目錄 'PrismLauncher/instances/RLCraft/minecraft' 。
  
- 
- 
- 
- 
-====== 授權協議 (License) ======
+================== 授權協議 (License) ==================
 
 本專案採用 MIT License 授權。歡迎分享與推廣，轉載請註明出處。
