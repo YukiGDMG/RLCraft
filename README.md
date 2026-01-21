@@ -28,7 +28,7 @@ RLCraft 的繁體中文翻譯包。
 * **顯示問題**：文字重疊、超出視窗或出現亂碼。
 * **缺漏補完**：發現仍有部分內容顯示為英文。
 
-請透過 GitHub 的 [Issues](link) 頁面提交回報。
+請透過 GitHub 的 [Issues](https://github.com/YukiGDMG/RLCraft-Traditional-Chinese-Taiwan/issues) 頁面提交回報。
 
 提交時若能附上「遊戲截圖」與「該物品/任務的英文原名」，將能大幅加快修正速度。感謝你的協助！
  
